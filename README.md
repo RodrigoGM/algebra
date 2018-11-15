@@ -8,3 +8,13 @@ Installation Notes
 ------------------
 
 To install this project run: ```pip install -e .```
+
+
+Usage
+-----
+This module can run a product fuction as:
+
+```python
+import algebra
+algebra.operations.product(4,6)
+```
