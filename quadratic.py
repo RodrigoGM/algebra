@@ -10,7 +10,7 @@ def poly(x, *coefs):
         raise Exception(
             "you've not provided any coefficients")
 
-    result = 0
+    result = x * 0
     for power, c in enumerate(coefs):
         result += c * (x**(power + 1))
 

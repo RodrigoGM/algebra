@@ -18,3 +18,6 @@ This module can run a product fuction as:
 import algebra
 algebra.operations.product(4,6)
 ```
+
+
+# start with numpy, pandas and seaborn 
